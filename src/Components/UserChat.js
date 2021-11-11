@@ -1,4 +1,5 @@
 import React from 'react';
+import fire from '../config/fire'
 
 export default function UserChat() {
     return (
